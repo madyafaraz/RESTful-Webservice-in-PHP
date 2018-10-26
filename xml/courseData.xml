@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<courses><course><studentID>3</studentID><courseID>cs602</courseID><firstName>John</firstName><lastName>Smith</lastName><email>john@smith.com</email></course><course><studentID>4</studentID><courseID>cs602</courseID><firstName>Jame</firstName><lastName>Smith</lastName><email>jane@smith.com</email></course></courses>

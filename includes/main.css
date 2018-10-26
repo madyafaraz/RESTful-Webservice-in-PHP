@@ -1,0 +1,121 @@
+
+/* the styles for the HTML elements */
+.right{
+    margin-left:200px;
+    align-items: center;
+}
+
+.center{
+align-items: center;
+text-align: center;
+
+}
+
+.container{
+    align-items: center;
+    text-align: center;
+}
+
+section p {
+    text-align: center;
+
+}
+header {
+    border-bottom: 2px solid black;
+    padding: .5em 0;
+}
+
+.button-padding{
+    padding-left:50px;
+}
+
+footer {
+    clear: both;
+    border-top: 1px solid lightgray;
+    height:80px;
+}
+footer p {
+    
+    margin-top:10px;
+    text-align: center;
+    font-size: 80%;
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    padding-bottom: 1em;
+}
+li {
+    padding-bottom: 0.5em;
+}
+a {
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+}
+
+#heading{
+
+    text-decoration-style: none;
+}
+br {
+    clear: left;
+}
+
+/* the styles for classes */
+.right {
+    text-align: right;
+}
+.first_paragraph {
+    margin-top: 0;	
+}
+.last_paragraph {
+    margin-bottom: 2em;	
+}
+/* the styles for the div tags that divide the page into sections */
+#left_column {
+    float: left;
+    width: 150px;
+    text-align: center;
+}
+#right_column {
+    float: left;
+    padding-left: 1em;
+    padding-bottom: 2em;
+}
+/* Additional styles for the Product Manager application */
+#add_product_form {
+    margin: .5em 0;
+}
+#add_product_form label {
+    width: 6em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+    float: left;
+}
+#add_product_form input {
+    float: left;
+}
+#add_product_form input[text] {
+    width: 15em;
+}
+
+input[type="text"]{
+    width:300px;
+  
+}
+
+form{
+    width:80%;
+    margin: auto;
+}
+
+table{
+    height:60%;
+}
